@@ -1,0 +1,8 @@
+# Python virtual environment
+venv/
+
+# Text files
+*.txt
+
+# CSV files
+*.csv
